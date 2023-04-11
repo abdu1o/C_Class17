@@ -13,7 +13,6 @@ int main()
     General obj(&employee), obj2(&person);
     obj.Print();
     cout << endl;
-    obj2.Print();
     //-------------------------------------------------
 
 
